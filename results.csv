@@ -1,0 +1,91 @@
+elements,trial,structure,operation,time_ms
+100,1,BST,Insert,8.015800
+100,1,Hash Table,Insert,0.851800
+100,1,BST,Search,0.146200
+100,1,Hash Table,Search,0.625800
+100,1,BST,Delete,0.398300
+100,1,Hash Table,Delete,0.672700
+100,2,BST,Insert,0.116700
+100,2,Hash Table,Insert,0.255200
+100,2,BST,Search,0.107500
+100,2,Hash Table,Search,0.197300
+100,2,BST,Delete,0.150500
+100,2,Hash Table,Delete,0.195600
+100,3,BST,Insert,0.163300
+100,3,Hash Table,Insert,0.294400
+100,3,BST,Search,0.129400
+100,3,Hash Table,Search,0.198400
+100,3,BST,Delete,0.187600
+100,3,Hash Table,Delete,0.275200
+100,4,BST,Insert,0.099900
+100,4,Hash Table,Insert,0.562900
+100,4,BST,Search,0.127400
+100,4,Hash Table,Search,0.146200
+100,4,BST,Delete,0.183500
+100,4,Hash Table,Delete,0.172500
+100,5,BST,Insert,0.090900
+100,5,Hash Table,Insert,0.162100
+100,5,BST,Search,0.158100
+100,5,Hash Table,Search,0.137000
+100,5,BST,Delete,0.161300
+100,5,Hash Table,Delete,0.163600
+1000,1,BST,Insert,1.202700
+1000,1,Hash Table,Insert,2.472000
+1000,1,BST,Search,1.555700
+1000,1,Hash Table,Search,2.041200
+1000,1,BST,Delete,5.963600
+1000,1,Hash Table,Delete,3.369000
+1000,2,BST,Insert,0.481700
+1000,2,Hash Table,Insert,0.676000
+1000,2,BST,Search,0.456700
+1000,2,Hash Table,Search,0.720200
+1000,2,BST,Delete,0.543700
+1000,2,Hash Table,Delete,0.676300
+1000,3,BST,Insert,0.507000
+1000,3,Hash Table,Insert,0.524600
+1000,3,BST,Search,0.576300
+1000,3,Hash Table,Search,0.460300
+1000,3,BST,Delete,0.699700
+1000,3,Hash Table,Delete,0.840600
+1000,4,BST,Insert,0.883400
+1000,4,Hash Table,Insert,1.024000
+1000,4,BST,Search,0.582800
+1000,4,Hash Table,Search,0.731300
+1000,4,BST,Delete,0.494900
+1000,4,Hash Table,Delete,0.432900
+1000,5,BST,Insert,0.430900
+1000,5,Hash Table,Insert,0.543800
+1000,5,BST,Search,0.408400
+1000,5,Hash Table,Search,0.452600
+1000,5,BST,Delete,4.846600
+1000,5,Hash Table,Delete,0.687500
+10000,1,BST,Insert,10.338400
+10000,1,Hash Table,Insert,7.695000
+10000,1,BST,Search,6.701800
+10000,1,Hash Table,Search,9.660300
+10000,1,BST,Delete,9.730800
+10000,1,Hash Table,Delete,8.242900
+10000,2,BST,Insert,7.173700
+10000,2,Hash Table,Insert,3.900800
+10000,2,BST,Search,5.508100
+10000,2,Hash Table,Search,5.419400
+10000,2,BST,Delete,7.178700
+10000,2,Hash Table,Delete,5.412400
+10000,3,BST,Insert,11.547900
+10000,3,Hash Table,Insert,6.438800
+10000,3,BST,Search,16.320400
+10000,3,Hash Table,Search,12.743700
+10000,3,BST,Delete,34.723000
+10000,3,Hash Table,Delete,13.297500
+10000,4,BST,Insert,6.652600
+10000,4,Hash Table,Insert,12.014300
+10000,4,BST,Search,6.978000
+10000,4,Hash Table,Search,7.963400
+10000,4,BST,Delete,9.183300
+10000,4,Hash Table,Delete,9.213400
+10000,5,BST,Insert,11.925700
+10000,5,Hash Table,Insert,5.880500
+10000,5,BST,Search,5.713700
+10000,5,Hash Table,Search,4.494600
+10000,5,BST,Delete,7.050300
+10000,5,Hash Table,Delete,6.188900
