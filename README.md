@@ -1,4 +1,4 @@
-# BST vs Hash Table (Java)
+# BST vs Hash Table 
 
 ## 1. What is this project?
 
