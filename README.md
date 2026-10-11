@@ -13,7 +13,6 @@ The program tests three actions: **insert** (add), **search** (find), and **dele
 
 - `Main.java` — all Java code, including both data structures and the test.
 - `results.csv` — detailed timing results from five test runs.
-- `handwritten_report.txt` — simple report to read and rewrite by hand.
 
 
 
